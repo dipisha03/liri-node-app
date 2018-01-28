@@ -24,6 +24,6 @@ liri.js can take in one of the following commands:
 
 	do-what-it-says
 
-		* This will perform a random task pertaining to one the commands above.
+		* This will perform a random task pertaining to one that commands above.
 
 Enjoy! 
